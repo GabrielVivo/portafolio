@@ -170,8 +170,14 @@ margin-top: 250px !important;
 
 margin-top: 250px;
 }
+.tamaño_imagen{
 
+width: 80%;
 
+}
+.mt13{
+margin-top: 13% !important;
+}
 @media (max-width: 768px) {
     /* Estilos para tablets y celulares grandes */
 
